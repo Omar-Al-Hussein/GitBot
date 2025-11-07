@@ -1,0 +1,29 @@
+{
+  "name": "vapo-guard",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Guild Wars 2 Discord verification bot",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omar-Al-Hussein/GitBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omar-Al-Hussein/GitBot/issues"
+  },
+  "homepage": "https://github.com/Omar-Al-Hussein/GitBot#readme"
+}
+
