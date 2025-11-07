@@ -79,4 +79,8 @@ client.on(Events.InteractionCreate, async (interaction) => {
   }
 });
 
+import dotenv from 'dotenv';
+dotenv.config();
+
 client.login(process.env.DISCORD_TOKEN);
+
